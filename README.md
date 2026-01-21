@@ -1,5 +1,5 @@
 # Repository for the article  
-**RSClearNet: Remote Sensing Image Dehazing via Dynamic Filtering and Diffusion-Generated Cirrus Augmentation**
+**RSClearNet: Remote Sensing Image Dehazing via Dynamic Filtering and Diffusion Generated Cirrus Augmentation**
 ## Network Architecture 💐
 ![RSClearNet](https://github.com/DABINB/RSClearNet/blob/main/RSClearNet_ALL.jpg)
 
